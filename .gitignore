@@ -1,2 +1,4 @@
-# Celery schedule / WAL files
-celerybeat-schedule*
+# Celery beat schedule files
+celerybeat-schedule
+celerybeat-schedule-shm
+celerybeat-schedule-wal
