@@ -10,4 +10,5 @@ COPY . .
 
 EXPOSE 7860
 
-CMD python manage.py migrate && python manage.py runserver 0.0.0.0:7860
+# Use the start.sh
+CMD ["./start.sh"]
