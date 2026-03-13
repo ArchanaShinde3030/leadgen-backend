@@ -1,7 +1,2 @@
+# Celery schedule / WAL files
 celerybeat-schedule*
-db.sqlite3
-__pycache__/
-*.pyc
-*.log
-.env
-venv/
